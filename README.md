@@ -10,7 +10,7 @@
           }
         }
     </script>
-  -->
+   -->
 
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -52,6 +52,7 @@
                          document.layers["myIDdate"].document.close()};
             </script>
             </font>
+      
               <a href="TOPpg.html"></a>
           <p style="text-align:center">こんにちは</p><p style="text-align:center">14345678です</p><p style="text-align:center">scratchをやっています</p><p style="text-align:center">知らない人はこちらから↓</p><p style="text-align:center"><a class="button" href="https://scratch.mit.edu/users/14345678/" style="text-align:center">私のプロフィール</a></p><p style="text-align:center">私の作成中の作品↓</p>
           <p style="text-align:center">
