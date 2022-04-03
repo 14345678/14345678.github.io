@@ -22,7 +22,6 @@
     <div class="container">
     <p class="subtitle">
     <i><a href="TOPpg.html"><h1>14345678</h1></i></a>
-    <font color="red">
       <div style="text-align:center">
    <!--
     <div style="text-align:center"><p>きょーの日付↓</p></div>
@@ -51,8 +50,6 @@
                          document.layers["myIDdate"].document.open();document.layers["myIDdate"].document.write(myMsg)};
                          document.layers["myIDdate"].document.close()};
             </script>
-            </font>
-      
               <a href="TOPpg.html"></a>
           <p style="text-align:center">こんにちは</p><p style="text-align:center">14345678です</p><p style="text-align:center">scratchをやっています</p><p style="text-align:center">知らない人はこちらから↓</p><p style="text-align:center"><a class="button" href="https://scratch.mit.edu/users/14345678/" style="text-align:center">私のプロフィール</a></p><p style="text-align:center">私の作成中の作品↓</p>
           <p style="text-align:center">
